@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
     "AUTHOR": "joel tech",
-    "theme": "Gifted-Md",
+    "theme": "joel tech",
     "LANGUAGE": "swahili",
     "LANGCODE": "sw",  
     "STRINGS": { 
