@@ -18,15 +18,15 @@
 //                                                                                            //
 //════════════════════════════════════════════════════════════════════════════════════════════//
 *                                                                 
-  * @project_name : Gifted-Md
-   * @author : Gifted Tech Info
-   * @youtube : https://www.youtube.com/@giftedtechnexus
-   * @description : Gifted-Md ,A Multi-functional whatsapp user bot.
+  * @project_name : joel-Md
+   * @author : joel Tech Info
+   * @youtube : https://www.youtube.com/@joeltechnexus
+   * @description : joel-Md ,A Multi-functional whatsapp user bot.
    * @version 2.5.0
 *
 * 
-   * Created By Gifted Tech Info.
-   * © 2024 Gifted-Md.
+   * Created By joelTech Info.
+   * © 2024 joel-Md.
 ⛥┌┤
  */
 
@@ -55,7 +55,7 @@ const os = require('os')
 /*
 let "USER_IMAGES" = {
       "description": "Put IMAGES/VIDEOS URL, Make Sure Url have extention like .mp4,.jpg,.png etc",
-      "value": "https://telegra.ph/file/204481823350f368c1826.mp4",
+      "value": "https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg",
       "required" :true
     },
 */
