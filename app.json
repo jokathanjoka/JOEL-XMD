@@ -1,7 +1,7 @@
 {
   "name": "joel-md@2.5.0",
   "description": "I am joel-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better\n\t if Any Problem Whatsapp Me on: 255714595078",
-  "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+  "logo": "https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg",
   "keywords": ["whatsappbot", "joelMd", "joel Md bot", "joel-Md", "joelMdWhatsaooBot", "joelWaBot","joelMD","joel Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr/",
@@ -32,7 +32,7 @@
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
+      "value": "https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "HRKU-03feec0e-33cb-4389-8981-872ba8817f53",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
