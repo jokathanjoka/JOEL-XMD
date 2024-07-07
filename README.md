@@ -26,12 +26,12 @@
 
 
 
- get session by 
+ GET SESSION ID BY
  
- [`QR CODE`]()
+
+<a href=""><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
  
-[`PARING CODE`]()
 
 <a href=""><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
